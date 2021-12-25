@@ -26,9 +26,9 @@ A mérkőzéseket tartalmazó adathalmazból megtartomazokat a metrikákat, amik
 ![Station editor design](images/magy.png)
 
 # Adathalmazok felépítése
-![1. adathalmaz felépítése](images/scrapelaliga.png)
+![1. adathalmaz felépítése](images/scrapelaliga.PNG)
 
-![2. adathalmaz felépítése](images/scrapefifa.png)
+![2. adathalmaz felépítése](images/scrapefifa.PNG)
 
 # Adathalmazokhoz készített modellek
 
