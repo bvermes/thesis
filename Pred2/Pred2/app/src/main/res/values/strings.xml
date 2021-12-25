@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pred2</string>
+    <string name="basictv">TextView</string>
+    <string name="attack">Attack</string>
+    <string name="midfield">Midfield</string>
+    <string name="defence">Defence</string>
+    <string name="name">Name</string>
+    <string name="overall">Overall</string>
+    <string name="clubworth">Clubworth</string>
+    <string name="xi_average_age">XI average age</string>
+    <string name="defence_width">Defence width</string>
+    <string name="defence_depth">Defence depth</string>
+    <string name="offence_width">Offence width</string>
+    <string name="likes">Likes</string>
+    <string name="dislikes">Dislikes</string>
+    <string name="average_goals_scored">Average goals scored</string>
+    <string name="average_goals_conceded">Average goals conceded</string>
+    <string name="average_attempts">Average attempts</string>
+    <string name="average_attempts_on_target">Average attempts on target</string>
+    <string name="average_attempts_off_target">Average attempts off target</string>
+    <string name="average_blocked_shots">Average blocked shots</string>
+    <string name="average_possession">Average possession</string>
+    <string name="average_free_kicks">Average free kicks</string>
+    <string name="average_goal_difference">Average goal difference</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="evaluate">Evaluate</string>
+    <string name="_0">0</string>
+    <string name="home">Home</string>
+    <string name="draw">Draw</string>
+    <string name="away">Away</string>
+</resources>
