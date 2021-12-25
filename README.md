@@ -34,12 +34,12 @@ A mérkőzéseket tartalmazó adathalmazból megtartomazokat a metrikákat, amik
 
 ![1. adathalmazhoz készített modellek](images/mod1ered.png)
 
-![2. adathalmazhoz készített modellek](images/mod2ered.png)
+![2. adathalmazhoz készített modellek](images/mod2profit.png)
 
 
 # Validálás
 
-![Eloszlás](images/mod2_conf p.png)
+![Eloszlás](images/mod2_confp.png)
 
 ![Profitibilitás](images/mod2_profit.png)
 
