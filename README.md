@@ -1,3 +1,7 @@
+# Overview
+This is part my thesis for Bsc at BME(I developed an android app to be able to use the neural network and see the correlation matrixes, graphs, etc.).
+I developed two different models for the final output. One is to use historical data, to correctly predict the chances for each football teams win probability. The second to use these prediction as "y" and try to predict it using information available prior the match. It's a hard concept to understand at first glance, and my thesis is written in Hungarian, but the abstract gives an overview of my goal and the code and graphs some insight.
+
 # Összefoglaló
 
 
