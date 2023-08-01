@@ -1,6 +1,10 @@
 # Overview
-This is part my thesis for Bsc at BME(I developed an android app to be able to use the neural network and see the correlation matrixes, graphs, etc.).
+This is part of my thesis for Bsc at BME(I developed an android app to be able to use the developed neural network and see the correlation matrixes, graphs, etc.).
 I developed two different models for the final output. One is to use historical data, to correctly predict the chances for each football teams win probability. The second to use these prediction as "y" and try to predict it using information available prior the match. It's a hard concept to understand at first glance, and my thesis is written in Hungarian, but the abstract gives an overview of my goal and the code and graphs some insight.
+
+# Skills learned
+I've learned a lot about pandas, data visualization. I walked through several complete data science workflow, so it helped to understand how it goes in smaller projects. I've learned different feature selection, under-oversampling, feature engineering, data visualization technics
+Since I developed man ML models, I learned much about different ML algorithms and how to use them in scikit-learn. I learned how to use tensorflow and how to predict numerical values with it(In the past I used it to predict images). 
 
 # Összefoglaló
 
